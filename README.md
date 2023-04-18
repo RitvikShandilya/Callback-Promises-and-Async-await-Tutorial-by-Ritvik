@@ -1,5 +1,5 @@
 # Callback-Promises-and-Async-await-Tutorial-by-Ritvik
-##The easiest possible explanation to understand these topics for starters
+#The easiest possible explanation to understand these JavaScript topics for starters
 ![1](https://user-images.githubusercontent.com/5859629/232667255-2b9b0fdd-90e9-4e07-a497-9781e0dde65b.png)
 ![2](https://user-images.githubusercontent.com/5859629/232667262-8a42ceed-a640-4274-9528-29cf25f9392c.png)
 ![3](https://user-images.githubusercontent.com/5859629/232667274-26600c00-71d1-4a51-8cad-99604466ef20.png)
